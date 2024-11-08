@@ -1,0 +1,9 @@
+﻿{
+  "": {"catch": 0.0, "max_tier": 0, "quality": []},
+  "worms": {"catch": 0.06, "max_tier": 1, "quality": [1.0]},
+  "cricket": {"catch": 0.06, "max_tier": 2, "quality": [1.0, 0.05]},
+  "leech": {"catch": 0.06, "max_tier": 2, "quality": [1.0, 0.15, 0.05]},
+  "minnow": {"catch": 0.06, "max_tier": 2, "quality": [1.0, 0.5, 0.25, 0.05]},
+  "squid": {"catch": 0.06, "max_tier": 2, "quality": [1.0, 0.8, 0.45, 0.15, 0.05]},
+  "nautilus": {"catch": 0.06, "max_tier": 2, "quality": [1.0, 0.98, 0.75, 0.55, 0.25, 0.05]}
+}
