@@ -15,133 +15,37 @@
 
   <ItemGroup>
       <None Remove="FreshwaterFish\fish_lake_alligator.tres" />
-      <Content Include="FreshwaterFish\fish_lake_alligator.tres">
-        <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-      </Content>
       <None Remove="FreshwaterFish\fish_lake_axolotl.tres" />
-      <Content Include="FreshwaterFish\fish_lake_axolotl.tres">
-        <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-      </Content>
       <None Remove="FreshwaterFish\fish_lake_bass.tres" />
-      <Content Include="FreshwaterFish\fish_lake_bass.tres">
-        <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-      </Content>
       <None Remove="FreshwaterFish\fish_lake_bluegill.tres" />
-      <Content Include="FreshwaterFish\fish_lake_bluegill.tres">
-        <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-      </Content>
       <None Remove="FreshwaterFish\fish_lake_bowfin.tres" />
-      <Content Include="FreshwaterFish\fish_lake_bowfin.tres">
-        <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-      </Content>
       <None Remove="FreshwaterFish\fish_lake_bullshark.tres" />
-      <Content Include="FreshwaterFish\fish_lake_bullshark.tres">
-        <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-      </Content>
       <None Remove="FreshwaterFish\fish_lake_carp.tres" />
-      <Content Include="FreshwaterFish\fish_lake_carp.tres">
-        <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-      </Content>
       <None Remove="FreshwaterFish\fish_lake_catfish.tres" />
-      <Content Include="FreshwaterFish\fish_lake_catfish.tres">
-        <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-      </Content>
       <None Remove="FreshwaterFish\fish_lake_crab.tres" />
-      <Content Include="FreshwaterFish\fish_lake_crab.tres">
-        <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-      </Content>
       <None Remove="FreshwaterFish\fish_lake_crappie.tres" />
-      <Content Include="FreshwaterFish\fish_lake_crappie.tres">
-        <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-      </Content>
       <None Remove="FreshwaterFish\fish_lake_crayfish.tres" />
-      <Content Include="FreshwaterFish\fish_lake_crayfish.tres">
-        <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-      </Content>
       <None Remove="FreshwaterFish\fish_lake_drum.tres" />
-      <Content Include="FreshwaterFish\fish_lake_drum.tres">
-        <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-      </Content>
       <None Remove="FreshwaterFish\fish_lake_frog.tres" />
-      <Content Include="FreshwaterFish\fish_lake_frog.tres">
-        <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-      </Content>
       <None Remove="FreshwaterFish\fish_lake_gar.tres" />
-      <Content Include="FreshwaterFish\fish_lake_gar.tres">
-        <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-      </Content>
       <None Remove="FreshwaterFish\fish_lake_golden_bass.tres" />
-      <Content Include="FreshwaterFish\fish_lake_golden_bass.tres">
-        <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-      </Content>
       <None Remove="FreshwaterFish\fish_lake_goldfish.tres" />
-      <Content Include="FreshwaterFish\fish_lake_goldfish.tres">
-        <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-      </Content>
       <None Remove="FreshwaterFish\fish_lake_guppy.tres" />
-      <Content Include="FreshwaterFish\fish_lake_guppy.tres">
-        <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-      </Content>
       <None Remove="FreshwaterFish\fish_lake_kingsalmon.tres" />
-      <Content Include="FreshwaterFish\fish_lake_kingsalmon.tres">
-        <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-      </Content>
       <None Remove="FreshwaterFish\fish_lake_koi.tres" />
-      <Content Include="FreshwaterFish\fish_lake_koi.tres">
-        <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-      </Content>
       <None Remove="FreshwaterFish\fish_lake_leech.tres" />
-      <Content Include="FreshwaterFish\fish_lake_leech.tres">
-        <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-      </Content>
       <None Remove="FreshwaterFish\fish_lake_mooneye.tres" />
-      <Content Include="FreshwaterFish\fish_lake_mooneye.tres">
-        <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-      </Content>
       <None Remove="FreshwaterFish\fish_lake_muskellunge.tres" />
-      <Content Include="FreshwaterFish\fish_lake_muskellunge.tres">
-        <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-      </Content>
       <None Remove="FreshwaterFish\fish_lake_perch.tres" />
-      <Content Include="FreshwaterFish\fish_lake_perch.tres">
-        <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-      </Content>
       <None Remove="FreshwaterFish\fish_lake_pike.tres" />
-      <Content Include="FreshwaterFish\fish_lake_pike.tres">
-        <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-      </Content>
       <None Remove="FreshwaterFish\fish_lake_pupfish.tres" />
-      <Content Include="FreshwaterFish\fish_lake_pupfish.tres">
-        <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-      </Content>
       <None Remove="FreshwaterFish\fish_lake_rainbowtrout.tres" />
-      <Content Include="FreshwaterFish\fish_lake_rainbowtrout.tres">
-        <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-      </Content>
       <None Remove="FreshwaterFish\fish_lake_salmon.tres" />
-      <Content Include="FreshwaterFish\fish_lake_salmon.tres">
-        <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-      </Content>
       <None Remove="FreshwaterFish\fish_lake_snail.tres" />
-      <Content Include="FreshwaterFish\fish_lake_snail.tres">
-        <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-      </Content>
       <None Remove="FreshwaterFish\fish_lake_sturgeon.tres" />
-      <Content Include="FreshwaterFish\fish_lake_sturgeon.tres">
-        <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-      </Content>
       <None Remove="FreshwaterFish\fish_lake_toad.tres" />
-      <Content Include="FreshwaterFish\fish_lake_toad.tres">
-        <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-      </Content>
       <None Remove="FreshwaterFish\fish_lake_turtle.tres" />
-      <Content Include="FreshwaterFish\fish_lake_turtle.tres">
-        <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-      </Content>
       <None Remove="FreshwaterFish\fish_lake_walleye.tres" />
-      <Content Include="FreshwaterFish\fish_lake_walleye.tres">
-        <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-      </Content>
       <None Remove="Resources\BaitData.json" />
       <Content Include="Resources\BaitData.json">
         <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
