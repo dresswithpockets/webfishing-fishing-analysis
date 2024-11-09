@@ -1,4 +1,4 @@
-﻿namespace WebFishingFishWeighting;
+﻿namespace RollAnalysis;
 
 public static class ItemSizeCalculator
 {

@@ -1,7 +1,7 @@
 ﻿using System.Text.Json.Serialization;
 using ConsoleTables;
 
-namespace WebFishingFishWeighting;
+namespace RollAnalysis;
 
 public record BaitData(
     [property: JsonPropertyName("catch")] double CatchRate,

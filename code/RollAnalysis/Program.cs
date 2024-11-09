@@ -3,7 +3,7 @@ using Plotly.NET;
 using Plotly.NET.CSharp;
 using Plotly.NET.ImageExport;
 using Plotly.NET.LayoutObjects;
-using WebFishingFishWeighting;
+using RollAnalysis;
 using Chart = Plotly.NET.CSharp.Chart;
 
 var lures = Enum.GetValues<Lure>();

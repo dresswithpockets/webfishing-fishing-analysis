@@ -1,6 +1,6 @@
 ﻿using ConsoleTables;
 
-namespace WebFishingFishWeighting;
+namespace RollAnalysis;
 
 public class ItemDropCalculator
 {

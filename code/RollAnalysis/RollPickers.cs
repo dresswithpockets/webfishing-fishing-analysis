@@ -1,4 +1,4 @@
-﻿namespace WebFishingFishWeighting;
+﻿namespace RollAnalysis;
 
 public delegate Item RollPicker(IEnumerable<Item> rolls);
 
