@@ -1,6 +1,5 @@
 ﻿using ConsoleTables;
 using Plotly.NET;
-using Plotly.NET.CSharp;
 using Plotly.NET.ImageExport;
 using Plotly.NET.LayoutObjects;
 using RollAnalysis;
@@ -11,7 +10,8 @@ var lures = Enum.GetValues<Lure>();
 await Resources.LoadBaitData();
 await Resources.LoadLootTables();
 
-BaitQualityCalculator.CalculateAndPrintQualityProbabilities();
+BaitQualityCalculator.CalculateAndPrintQualityProbabilities(false);
+BaitQualityCalculator.CalculateAndPrintQualityProbabilities(true);
 ItemDropCalculator.CalculateAndPrintDropRatesNoReRoll();
 
 await GeneratePlainDropRateCsv(false);
